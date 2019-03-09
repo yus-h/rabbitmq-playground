@@ -39,3 +39,6 @@ src/main/resources/static/built
 mvn
 mvnw
 mvnw.cmd
+
+**/mvn/**
+**/target/**
